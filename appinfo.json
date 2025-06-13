@@ -1,0 +1,308 @@
+{
+    "appKeys": {
+        "comando": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "[email]",
+    "longName": "NowHoursDays",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/D5.png",
+                "name": "IMAGE_LUNA_D5",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48clear_color2.png",
+                "name": "IMAGE_NOW_CLEAR2",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48mostlyclear.png",
+                "name": "IMAGE_NOW_MOSTLYCLEAR",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo.png",
+                "menuIcon": true,
+                "name": "IMAGE_LOGO28",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36hazy.png",
+                "name": "IMAGE_HAZY36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36fog.png",
+                "name": "IMAGE_FOG36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36flurries.png",
+                "name": "IMAGE_FLURRIES36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36mostlycloudy.png",
+                "name": "IMAGE_MOSTLYCLOUDY36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36mostlyclear.png",
+                "name": "IMAGE_MOSTLYCLEAR36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36px_icon.png",
+                "name": "IMAGE_ICON36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48storm.png",
+                "name": "IMAGE_NOW_STORM",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48snow.png",
+                "name": "IMAGE_NOW_SNOW",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48rain.png",
+                "name": "IMAGE_NOW_RAIN",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48fog.png",
+                "name": "IMAGE_NOW_FOG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48flurries.png",
+                "name": "IMAGE_NOW_FLURRIES",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48cloudy.png",
+                "name": "IMAGE_NOW_CLOUDY",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_variable.png",
+                "name": "IMAGE_VIENTO_VAR",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_SW.png",
+                "name": "IMAGE_VIENTO_SW",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_S.png",
+                "name": "IMAGE_VIENTO_S",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_SE.png",
+                "name": "IMAGE_VIENTO_SE",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_NW.png",
+                "name": "IMAGE_VIENTO_NW",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_N.png",
+                "name": "IMAGE_VIENTO_N",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_NE.png",
+                "name": "IMAGE_VIENTO_NE",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_E.png",
+                "name": "IMAGE_VIENTO_E",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/viento_W.png",
+                "name": "IMAGE_VIENTO_W",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/12updated.png",
+                "name": "IMAGE_UPDATED12",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/12updating.png",
+                "name": "IMAGE_UPDATING12",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/NN.png",
+                "name": "IMAGE_LUNA_NUEVA",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D7.png",
+                "name": "IMAGE_LUNA_D7",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D6.png",
+                "name": "IMAGE_LUNA_D6",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D4.png",
+                "name": "IMAGE_LUNA_D4",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D2.png",
+                "name": "IMAGE_LUNA_D2",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D1.png",
+                "name": "IMAGE_LUNA_D1",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/LL.png",
+                "name": "IMAGE_LUNA_LLENA",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C4.png",
+                "name": "IMAGE_LUNA_C4",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C3.png",
+                "name": "IMAGE_LUNA_C3",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C2.png",
+                "name": "IMAGE_LUNA_C2",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48clear.png",
+                "name": "IMAGE_NOW_CLEAR",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48mostlycloudy.png",
+                "name": "IMAGE_NOW_MOSTLYCLOUDY",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/48hazy.png",
+                "name": "IMAGE_NOW_HAZY",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36cloudy.png",
+                "name": "IMAGE_CLOUDY36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/D3.png",
+                "name": "IMAGE_LUNA_D3",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C7.png",
+                "name": "IMAGE_LUNA_C7",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C6.png",
+                "name": "IMAGE_LUNA_C6",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C5.png",
+                "name": "IMAGE_LUNA_C5",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/C1.png",
+                "name": "IMAGE_LUNA_C1",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/12not updated.png",
+                "name": "IMAGE_NOTUPDATED12",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/bt-disconnected.png",
+                "name": "IMAGE_BT_DIS",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36storm.png",
+                "name": "IMAGE_STORM36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36snow.png",
+                "name": "IMAGE_SNOW36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36rain.png",
+                "name": "IMAGE_RAIN36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/36clear.png",
+                "name": "IMAGE_CLEAR36",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/32sunriseset.png",
+                "name": "IMAGE_SUNRISESET",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/16sterm.png",
+                "name": "IMAGE_STERM16",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/16presion.png",
+                "name": "IMAGE_PRESION16",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/16lluvia.png",
+                "name": "IMAGE_LLUVIA16",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "NowHoursDays",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7c433cd4-1a20-4f7d-9e2a-a3df80c6a61f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
