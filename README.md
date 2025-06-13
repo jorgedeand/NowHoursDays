@@ -11,6 +11,10 @@ The app shows:
 -  Tne next hours forecast (Hours screen)
 -  The next days forecast (Days screen)
 
+![Now screen](/1now.png)
+![Hours screen](/2hours.png)
+![Days screen](/3days.png)
+
 ## Now screen:
 -  Weather icon
 -  Current temperature
